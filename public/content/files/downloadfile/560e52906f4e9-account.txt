@@ -1,0 +1,5 @@
+user: admin
+password: (admin) $2y$10$8odx.LItKvvWVRq694F8Pe0FOpe09XjwUXpYXhqmMePCwegsbUZ8e
+
+user: demo
+password: (demo) $2y$10$fOyNWUY0KsDt5AqKjJxzDuYpbfDPPnMHbCUnDEgDsTbTAQYCX9gue
